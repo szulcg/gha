@@ -1,0 +1,20 @@
+{
+  "name": "gha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@eslint-react/eslint-plugin": "^5.30.6",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0",
+    "vitest": "^5.1.2"
+  }
+}
